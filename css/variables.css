@@ -1,0 +1,16 @@
+
+:root{
+    /* background-color */
+    --primary-bg-color: #fff;
+    --secondary-bg-color: #F46A06;
+    --primary-color: #000;
+    --secondary-color: #fff;
+    --tertiary-color: #F46A06;
+    --paragraph-color: #555555;
+    --gray-color: #bebebe;
+    --primary-ff: "Quicksand", sans-serif;
+    --secondary-ff: "Roboto", sans-serif;
+    --button-border-radius: 3px;
+    --button-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    --primary-radius: 5px;
+}
